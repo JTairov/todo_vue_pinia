@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "isFav": true,
+      "title": "Play Gran Turismo 7"
+    },
+    {
+      "title": "Walk Barney",
+      "isFav": true,
+      "id": 9183
+    },
+    {
+      "title": "Do the house",
+      "isFav": false,
+      "id": 5018
+    },
+    {
+      "title": "Wash dishes",
+      "isFav": false,
+      "id": 2270
+    }
+  ]
+}
